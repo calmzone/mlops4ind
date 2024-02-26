@@ -1,5 +1,5 @@
 ## MLOps course for industry
-Feb 25th - Mar 1st, DTU Lyngby
+Feb 26th - Mar 1st, DTU Lyngby
 
 ### Day 2, morning
 Exercises:
