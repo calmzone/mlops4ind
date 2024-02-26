@@ -49,4 +49,4 @@ Exercises:
 
   Alternative exercises: 
   * Get inspired by [this](https://www.philschmid.de/fine-tune-a-non-english-gpt-2-model-with-huggingface) blog showcasing german language and try to teach/finetune GPT2 on danish. 
-  * Even more advanced exercises [ONNX, Torch ORT] (https://pytorch.org/ort/) are available [here](https://demo.hedgedoc.org/qCRpSmQ4RoCxLaA3diBJLQ?both) 
+  * Even more advanced exercises [ONNX, Torch ORT](https://pytorch.org/ort/) are available [here](https://demo.hedgedoc.org/qCRpSmQ4RoCxLaA3diBJLQ?both) 
