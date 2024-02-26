@@ -2,8 +2,18 @@
 Feb 26th - Mar 1st, DTU Lyngby
 
 ### Day 2, morning
+
 Exercises:
+Get familiar with data processing and with different models available at Hugging face. Make yourself confortable with using different "model heads" to obtain results of your request.
   1. Run and comment on what happens in notebook cells. Put your findings/questions into notebook so we can address them: [colab](course/en/day2/transformers.ipynb)
+     In Colab remember to:
+      *      change type of notebook to GPU: Edit -> Notebook settings -> T4 GPU
+      *      !pip accelerate -U
+      *      Runtime -> Restart session
+      *      do not run any !pip installs after this to be able to trainer.train()
+  2. Summarize the text of your own choice
+    <span style="color: gray;"> tip: use an appropriate head for model of your choice.<\span>
+  3. What's the **overall** sentiment of your text?
 
 ### Day 2, afternoon
 Exercises: 
