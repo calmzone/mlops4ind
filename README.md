@@ -21,7 +21,8 @@ Exercise
         
   4. clone `https://github.com/huggingface/transformers/blob/main/examples/pytorch/language-modeling`
   5. explore and run finetuning `./run_clm.py` in the repository
-  6. Task: make it configurable using `hydra` and `wandb`:
+  6. If you need read more on Hydra go [here](https://hydra.cc/docs/intro/) and (OmegaConf, .yaml handling)[https://omegaconf.readthedocs.io/en/latest/usage.html#access-and-manipulation]
+  7. Task: make it configurable using `hydra` and `wandb`:
      1.) the following replaces trainer.train() from the original script
       ```
           @hydra.main(config_path="./config", config_name="train_gpt2_hf")
@@ -47,7 +48,6 @@ Exercise
      
        * ... there is still one more glitch left - try to figure it out```
 
-Alternative
-  4. Follow [this](https://www.philschmid.de/fine-tune-a-non-english-gpt-2-model-with-huggingface) blog showcasing german language and try to teach/finetune GPT2 on danish
+  Alternative 4. Follow [this](https://www.philschmid.de/fine-tune-a-non-english-gpt-2-model-with-huggingface) blog showcasing german language and try to teach/finetune GPT2 on danish
 
 Schedule and advanced exercises are available on [hedgehog](https://demo.hedgedoc.org/qCRpSmQ4RoCxLaA3diBJLQ?both) 
