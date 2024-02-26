@@ -3,11 +3,10 @@ Feb 25th - Mar 1st, DTU Lyngby
 
 ### Day 2, morning
 Exercises:
-  1. Run and try to grasp what happens in cells. Put your findings/questions into notebook so we can address them: [colab](course/en/day2/transformers.ipynb)
-  2.
-### Day 2, afternoon
+  1. Run and comment on what happens in notebook cells. Put your findings/questions into notebook so we can address them: [colab](course/en/day2/transformers.ipynb)
 
-Exercise 
+### Day 2, afternoon
+Exercises: 
   1. Setup W&B free account, and play around to get acquainted with W&B logging [colab](course/en/day2/HF_wandb.ipynb)
   2. DIY pipeline on your mainframe (laptop):
      1. prepare python environements on your laptop (or use the one of your choice) including torch with support for your metal
