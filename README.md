@@ -21,7 +21,7 @@ Exercises:
   4. clone `https://github.com/huggingface/transformers/blob/main/examples/pytorch/language-modeling`
   5. explore and run finetuning `./run_clm.py` in the repository
   6. If you need read more on Hydra go [here](https://hydra.cc/docs/intro/) and [OmegaConf, .yaml handling](https://omegaconf.readthedocs.io/en/latest/usage.html#access-and-manipulation)
-  7. Task: make it configurable using `hydra` and `wandb`:
+  7. Task: make `./run_clm.py` configurable using `hydra` and `wandb`:
      1.) use Hydra decorator and replace trainer.train() in the following manner (just an example) in `./run_clm.py`
       ```
           @hydra.main(config_path="./config", config_name="train_gpt2_hf")
