@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T13:46:00.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="Na8j15T53eUumYlOi5J2" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T13:48:30.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="0nNeayAHA2c2CTGLt30G" version="23.1.7" type="github">
   <diagram name="Page-1" id="d5gRb7zunvB6BdZA_2YK">
     <mxGraphModel dx="3391" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,16 +140,6 @@
         </mxCell>
         <mxCell id="Lab8qOJdTdPuYV9hf-uN-67" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="467" y="817.5" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="Lab8qOJdTdPuYV9hf-uN-68" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#26B32F;strokeWidth=10;" edge="1" parent="1" target="Lab8qOJdTdPuYV9hf-uN-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="60" as="sourcePoint" />
-            <mxPoint x="688" y="135" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="800" y="60" />
-              <mxPoint x="800" y="960" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Lab8qOJdTdPuYV9hf-uN-69" value="Driver &lt;br&gt;SAFETY &lt;br&gt;SCORE" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF8000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.location_service_routes;" vertex="1" parent="1">
           <mxGeometry x="520" y="105" width="48" height="48" as="geometry" />
