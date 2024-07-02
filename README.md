@@ -5,14 +5,15 @@ July 3rd, DTU Lyngby
 Exercises:
 Get familiar with data processing and with different models available at Hugging face. Make yourself confortable with using different "model heads" to obtain results of your request.
   1. Run and comment on what happens in notebook cells. Put your findings/questions into notebook so we can address them: [colab](course/en/day2/transformers.ipynb)
-     For finetuning at the end of jupyter notebook you would need to use GPUs. To set it up in Colab you should do the following and rerun cells with imports and objects (or all just to be on a safe side):
+
+      For finetuning at the end of jupyter notebook you would need to use GPUs. To set it up in Colab you should do the following and rerun cells with imports and objects (or all just to be on a safe side):
       *      change type of notebook to GPU: Edit -> Notebook settings -> T4 GPU
       *      !pip accelerate -U
       *      Runtime -> Restart session
       *      do not run any !pip installs after this to be able to trainer.train()
-  2. Optional: Summarize the text of your own choice
+  3. Optional: Summarize the text of your own choice
      (hint: use an appropriate head for model of your choice)
-  3. Optional: What's the **overall** sentiment of your text?
+  4. Optional: What's the **overall** sentiment of your text?
 
 ### Advanced exercises
 Exercises: 
