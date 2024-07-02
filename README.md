@@ -8,7 +8,7 @@ Get familiar with data processing and with different models available at Hugging
 
       For finetuning at the end of jupyter notebook you would need to use GPUs. To set it up in Colab you should do the following and rerun cells with imports and objects (or all just to be on a safe side):
       *      change type of notebook to GPU: Edit -> Notebook settings -> T4 GPU
-      *      !pip accelerate -U
+      *      !pip install accelerate -U
       *      Runtime -> Restart session
       *      do not run any !pip installs after this to be able to trainer.train()
   3. Optional: Summarize the text of your own choice
